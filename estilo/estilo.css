@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(31, 31, 31);
+  text-align: center;
+  align-items: center;
+}
+
+.conteudo {
+  background-color: rgb(43, 43, 43);
+  margin: 30px;
+}
+h1 {
+  padding: 25px;
+  color: rgb(255, 255, 255);
+}
+
+h2 {
+  color: rgb(255, 255, 255);
+}
